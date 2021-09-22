@@ -9,7 +9,7 @@
     "lint": "eslint ./src"
   },
   "keywords": [],
-  "author": "",
+  "author": "thefdisk",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.24.0",
